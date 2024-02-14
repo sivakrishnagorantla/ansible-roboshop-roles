@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.sivakrishnawsdevops.online
+USER_HOST: user.sivakrishnawsdevops.online
+SHIPPING_HOST: shipping.sivakrishnawsdevops.online
+CART_HOST: cart.sivakrishnawsdevops.online
+PAYMENT_HOST: payment.sivakrishnawsdevops.online
